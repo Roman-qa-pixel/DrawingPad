@@ -1,1 +1,1 @@
-Drawing Pad created using Windows Forms, .NET and c# programming language.
+Simple drawing Pad created using Windows Forms, .NET and c# programming language.
